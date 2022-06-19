@@ -88,6 +88,7 @@ header .btns a i{
 .service-info .container{
     display: flex;
     justify-content: space-between;
+    flex-direction: column;
     margin-left: 8%;
     margin-top: 30px;
 }
